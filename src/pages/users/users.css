@@ -1,0 +1,45 @@
+.rating_section,
+.list_section {
+    flex: 0 0 47%;
+    max-width: 47%;
+    padding: 0 10px;
+}
+
+.empty_text {
+    margin-top: 40px;
+    font-size: 14px;
+    line-height: 1.33rem;
+    color: black;
+}
+
+.page_users {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0 -10px;
+}
+
+.css-tmx8tx {
+    width: unset !important;
+}
+
+.rating_section {
+    display: flex;
+}
+
+.good_rating,
+.bad_rating {
+    padding: 0 10px;
+    flex: 1;
+}
+
+.rating_title {
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 1.33rem;
+    color: black;
+    font-weight: 900;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}

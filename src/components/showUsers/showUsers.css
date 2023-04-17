@@ -1,0 +1,20 @@
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+    overflow: hidden;
+}
+
+body {
+    background: #f2f2f2;
+}
+
+.bad_rating {
+    margin-top: 0;
+}
+
+.good_rating {
+    margin-top: 0;
+
+}
